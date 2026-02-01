@@ -6,6 +6,7 @@ __pycache__/
 #virtual
 venv/ 
 env/ 
+dataset/
 # C extensions
 *.so
 
